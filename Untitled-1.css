@@ -1,0 +1,81 @@
+body {
+
+    margin: 0;
+
+  }
+
+ 
+
+  #flex-container {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    height: 200px;
+
+  }
+
+ 
+
+  nav {
+
+    background-color: rgb(225, 65, 65);
+    border: 2px solid black;
+
+    height: 75px;
+
+  }
+
+ 
+
+  header {
+
+    background-color: rgb(250, 135, 158);
+    border: 2px solid black;
+
+    height: 400px;
+
+  }
+
+ 
+
+  section {
+
+    background-color: rgb(147, 226, 176);
+    
+
+    margin: 75px 100px;
+
+  }
+
+ 
+
+
+
+ 
+
+  p {
+
+    background-color: khaki;
+    border: 2px solid black;
+
+    height: 200px;
+
+    margin-bottom: 75px;
+
+  }
+
+ 
+
+  div.col {
+
+    background-color: tomato;
+
+    border: 2px solid black;
+
+    width: calc(50% - 10px);
+
+  }
+
+ 
